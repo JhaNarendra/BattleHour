@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/RealisticCarControllerV3/Demo Scenes/RCC City (Car Selection).unity
-    guid: 5e31dbb8aee8b8c42bf3b80d66382547
   - enabled: 1
+    path: Assets/StarterAssets/Environment 1/Town Constructor Pack/Scenes/Town.unity
+    guid: d8838549f3a93684891fa57424d88aa8
+  - enabled: 0
     path: Assets/RealisticCarControllerV3/Demo Scenes/RCC City.unity
     guid: 523256c5a87c92d47ae0c39224fc0431
   m_configObjects:
