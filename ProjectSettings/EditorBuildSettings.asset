@@ -5,12 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/StarterAssets/Environment 1/Town Constructor Pack/Scenes/Town.unity
     guid: d8838549f3a93684891fa57424d88aa8
   - enabled: 0
     path: Assets/RealisticCarControllerV3/Demo Scenes/RCC City.unity
     guid: 523256c5a87c92d47ae0c39224fc0431
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/MainMenu.unity
+    guid: f7b237ee27d815f4ba06251671ec6a4a
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/Map-3.unity
+    guid: a3b489fd7f73c91458d249ccdc32dba9
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: a0fcf035d20b84144980f89cabb0ec2a,
       type: 2}
