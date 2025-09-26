@@ -1,0 +1,188 @@
+{
+	"assetNamespace": "fab",
+	"listing":
+	{
+		"averageRating": 5,
+		"createdAt": "",
+		"description": "<p>Kickstart your arcade or demolition racing project with this low-poly Stylized Car Asset Pack, featuring 10 uniquely crafted vehicles built for high-speed action and crash-heavy gameplay. These models are perfect for mobile, PC, or console titles that require visually distinct, performance-optimized assets without compromising style.</p><p></p><p>Whether you're designing a top-down arcade racer, a chaotic crash sim, or a stylized driving game, these vehicles are easy to integrate and ready for gameplay.</p><p></p><p><strong>Features:</strong></p><ul><li><p><strong>Includes 10 stylized car models</strong> in a mix of racing and demolition styles</p></li><li><p><strong>Game-optimized geometry</strong> with balanced poly counts for smooth performance</p></li><li><p><strong>Clean textures and materials</strong> ideal for stylized visuals</p></li><li><p><strong>Customizable UV mapping</strong> for easy editing and retexturing</p></li><li><p><strong>Suitable for arcade racers, crash simulations, and cinematic scenes</strong></p></li><li><p><strong>Compatible with major tools</strong> including Unity, Unreal Engine, Blender, and more</p></li></ul>",
+		"isAiForbidden": true,
+		"isAiGenerated": false,
+		"lastUpdatedAt": "2025-07-25T12:49:12.061996Z",
+		"listingType": "3d-model",
+		"media": "https://media.fab.com/image_previews/gallery_images/d790639e-9148-4c00-a55d-e16544b738f3/0ea98fd2-9664-4b71-bc3d-d7ef951b5319.png",
+		"publishedAt": "2025-07-25T12:48:50.404833Z",
+		"reviewCount": 3,
+		"thumbnail": "https://media.fab.com/image_previews/gallery_images/fa5abb38-e843-4266-b761-4f1860e40243/dcc271ee-5b98-4484-8f5e-593d17eedbcc.png",
+		"title": "Cars for Arcade Demolition Racing Games",
+		"uid": "e0b94dfb-455d-4ca2-8317-c120d35c960c",
+		"updatedAt": "",
+		"user":
+		{
+			"coverImageUrl": "https://cdn1.epicgames.com/fab/seller/o-kvmutjxksv7fcv7zqvsmhr796a4src/backgroundImage/blob-1920x540-991d5de99dec7b3849ebf4f5e7d60b84.jpg",
+			"profileImageUrl": "https://cdn1.epicgames.com/fab/seller/o-kvmutjxksv7fcv7zqvsmhr796a4src/profileImage/blob-500x500-457963e440235158129f0a805c6caf67.jpg",
+			"sellerName": "Store InvoGames",
+			"uid": "b934ae25-ba26-41f7-815f-e439be54c09f"
+		},
+		"tags": [
+			{
+				"name": "Vehicle",
+				"slug": "vehicle",
+				"uid": "08971b1b-8ab3-4de7-8500-b9b3e00382cb"
+			},
+			{
+				"name": "Car",
+				"slug": "car",
+				"uid": "1b19907d-7199-4bea-888b-434c45591ad6"
+			},
+			{
+				"name": "Race",
+				"slug": "race",
+				"uid": "21e07f73-e8e4-4798-9741-109770125fb1"
+			},
+			{
+				"name": "Modular",
+				"slug": "modular",
+				"uid": "3f9ccd49-dae7-45e2-bdb6-9e288855da06"
+			},
+			{
+				"name": "Lowpoly",
+				"slug": "lowpoly",
+				"uid": "451806dc-649e-43b7-9c2e-a54485de14b6"
+			},
+			{
+				"name": "Modern",
+				"slug": "modern",
+				"uid": "4a008392-1a66-40e5-8ba9-ffb361b25ef5"
+			},
+			{
+				"name": "Metal",
+				"slug": "metal",
+				"uid": "55165238-19a2-4184-85f1-e8650bd2a38d"
+			},
+			{
+				"name": "Abstract",
+				"slug": "abstract",
+				"uid": "63d2dbcb-e2e6-43d1-9dca-2de684229046"
+			},
+			{
+				"name": "Minimalist",
+				"slug": "minimalist",
+				"uid": "73ac9f9a-794d-42f4-8873-f2e4d9e003a3"
+			},
+			{
+				"name": "Glass",
+				"slug": "glass",
+				"uid": "7735e020-15bd-4279-9114-f55d6f5b4396"
+			},
+			{
+				"name": "Reflective",
+				"slug": "reflective",
+				"uid": "97467ca5-b0a1-458f-8983-706590f8375e"
+			},
+			{
+				"name": "Light",
+				"slug": "light",
+				"uid": "9ac7d3c8-eb97-4c82-bb75-ff5dcbf845c1"
+			},
+			{
+				"name": "Stylized",
+				"slug": "stylized",
+				"uid": "b584e222-c5bf-43b3-b9ed-f937eaf169c1"
+			},
+			{
+				"name": "Metallic",
+				"slug": "metallic",
+				"uid": "d5b82134-c49f-443e-8b37-7847c2bd3605"
+			}
+		],
+		"category":
+		{
+			"name": "Cars & Trucks",
+			"path": "vehicles-transportation/cars-trucks",
+			"slug": "vehicles-transportation--cars-trucks",
+			"uid": "edffef4a-0710-430b-b05e-0f667df2161b"
+		},
+		"assetFormats": [
+			{
+				"assetFormatType":
+				{
+					"name": "FBX",
+					"groupName": "3D Exchange Formats",
+					"code": "fbx",
+					"icon": "cube",
+					"extensions": [
+						"fbx"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Converted Files",
+					"groupName": "",
+					"code": "converted-files",
+					"icon": "cube",
+					"extensions": [
+						"gltf",
+						"glb",
+						"usdz"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Unity",
+					"groupName": "Game Engine Formats",
+					"code": "unity",
+					"icon": "unity",
+					"extensions": [
+						"unitypackage"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "OBJ",
+					"groupName": "3D Exchange Formats",
+					"code": "obj",
+					"icon": "cube",
+					"extensions": [
+						"obj"
+					]
+				}
+			},
+			{
+				"assetFormatType":
+				{
+					"name": "Blender",
+					"groupName": "3D DCC Formats",
+					"code": "blender",
+					"icon": "blender",
+					"extensions": [
+						"blend"
+					]
+				}
+			}
+		],
+		"_PluginMetas":
+		{
+			"apiDataVersion": "0.0.1",
+			"entitlementUid": "47c92b85-e08d-4926-aab5-936f94c9690a",
+			"cacheSize": 0,
+			"downloaded": []
+		}
+	},
+	"target": "unity",
+	"quality": "",
+	"format": "fbx",
+	"fileId": "bd246b92-9d51-447c-b11b-802cf8eb7694",
+	"platformIncluded": "",
+	"distributionPointBaseUrls": [],
+	"distributionMethod": "",
+	"entitlementUid": "47c92b85-e08d-4926-aab5-936f94c9690a",
+	"invertedNormal": false,
+	"isConverted": false,
+	"isQuixel": false
+}
